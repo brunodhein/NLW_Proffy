@@ -16,9 +16,10 @@ Firstly go ahead and clone this repo!
 ```
 git clone https://github.com/brunodhein/NLW_Proffy.git
 ```
-After, using your preference package manager (yarn or npm) download the dependencies :open_file_folder:
+After, using these package manager (yarn and npm because i did the mistake of using both) download the dependencies :open_file_folder:
 ```
 npm install
+yarn install
 ```
 Them run
 ```
